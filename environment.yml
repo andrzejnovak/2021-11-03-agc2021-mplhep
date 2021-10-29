@@ -14,7 +14,7 @@ dependencies:
   - mscorefonts
   - pip:
     - hist >=2.5.1
-    - mplhep >=0.3.13
+    - mplhep >=0.3.14
     - uproot4
     - scikit-hep-testdata
     - RISE
